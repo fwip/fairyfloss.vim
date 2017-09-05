@@ -9,7 +9,7 @@ let g:colors_name = 'fairyfloss'
 
 " UI
 
-hi ColorColumn guifg=fg guibg=#a8a4b1 gui=NONE ctermfg=0
+hi ColorColumn guifg=fg guibg=#716799 gui=NONE ctermfg=0
 "hi Conceal
 "hi Cursor
 "hi CursorIM
